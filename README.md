@@ -2,7 +2,7 @@
 
 Wikipedia 2.0 es una versión "mejorada" de Wikipedia normal usando la librería **WikiEngine.js**
 
-> Ojo, Wikipedia 2.0 puede enfrentarse a CORS que es la seguridad del navegador y los CORS pueden bloquear esos resultados, por eso te recomiendo que vallas al sitio oficial del [Wikipedia normal](https://www.wikipedia.org)
+> Ojo, Wikipedia 2.0 puede enfrentarse a CORS que es parte de la seguridad del navegador y los CORS pueden bloquear esos resultados, por eso te recomiendo que vallas al sitio oficial del [Wikipedia normal](https://www.wikipedia.org)
 
 ## Características nuevas
 
