@@ -50,3 +50,11 @@ Este proyecto esta bajo una licencia MIT
 <img width="330" height="287" alt="Captura de pantalla 2026-10-26 180104" src="https://github.com/user-attachments/assets/c25952ba-3347-43bc-9e96-d1b5eb755126" />
 
 <img width="514" height="470" alt="Captura de pantalla 2026-10-26 192208" src="https://github.com/user-attachments/assets/cb2e26ac-efe3-45bb-847d-fe83ac2058be" />
+
+## Versiones
+
+**Wikipedia 2.0**: El normal
+
+**Wikipedia 2.0 Python**: La version python (viene con extension .pyw)
+
+**Wikipedia Mobile**: La versión movil
