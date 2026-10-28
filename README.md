@@ -43,6 +43,8 @@ A ver, no es obligatorio usar Wikipedia 2.0, pero aquí va
 
 [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page/es)
 
+[Wikihumorista (Inciclopedia)](https://inciclopedia.org/)
+
 ## Licencia
 
 Este proyecto esta bajo una licencia MIT
